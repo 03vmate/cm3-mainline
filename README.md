@@ -3,7 +3,7 @@
 Clone BSP and this repo into available profiles
 ```
 git clone --recursive https://github.com/radxa-repo/bsp.git
-git clone https://github.com/03vmate/cm3-mainline.git bsp/cm3-mainline
+git clone https://github.com/03vmate/cm3-mainline.git bsp/linux/cm3-mainline
 ```
 
 Run build
